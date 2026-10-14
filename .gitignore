@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+local/
+config.json
+Google試算表連結.json
+快取/
+02-錄音結果/
+*.shortcut
+*.aiff
+*.m4a
+*.wav
